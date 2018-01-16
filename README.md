@@ -1,0 +1,2 @@
+# Titanic_Project
+Kaggle入门项目，分析出Titanic乘客各属性对生存率的影响，并建模预测乘客的生存情况
